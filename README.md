@@ -2,8 +2,8 @@
 I'm currently on a path to learning data engineering tools to expand my knowledge and share it with the world.<br>
 I hope it helps in some way!<br>
 
-## Currently Learning :bookmark_tabs:
-`AWS Cloud Services` `Trino` `Apache Spark` `Apache Kafka`<br>
+## Currently Learning/Using :bookmark_tabs:
+`GCP console` `NoSql BigTable` `Apache Spark`<br>
 
 ## Contact :incoming_envelope:
 For a quick response, You can connect with me on [LinkedIn](https://www.linkedin.com/in/ken-chen-concordia-uni-beng/).
